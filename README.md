@@ -1,1 +1,1 @@
-{{ docs/development/content.md#contributing }}
+{{ docs/development/content.md }}
